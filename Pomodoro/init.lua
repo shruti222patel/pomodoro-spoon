@@ -21,7 +21,7 @@ obj.alwaysShow = true
 
 -- Duration in seconds for alert to stay on screen
 -- Set to 0 to turn off alert completely
-obj.alertDuration = 5
+obj.alertDuration = 3
 
 -- Font size for alert
 obj.alertTextSize = 80
